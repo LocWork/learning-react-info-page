@@ -1,0 +1,22 @@
+.MainContainer {
+  margin-left: 3%;
+  color: #ffffff;
+  font-family: Inter;
+}
+
+.MainContainer > h1 {
+  height: 41px;
+}
+
+.MainContainer > ul {
+  margin-top: 3%;
+}
+
+.MainContainer > ul > li {
+  margin-bottom: 2%;
+}
+
+.MainContainer > ul > li::marker {
+  color: #61dafb;
+  font-size: 2rem;
+}
