@@ -12,10 +12,10 @@
   align-items: center;
   color: #61dafb;
   margin-left: 3%;
+  font-family: 'Inter', sans-serif;
 }
 
 .leftSide > img {
-  font-family: Inter;
   font-style: Bold;
   width: 28.93px;
   height: 28.93px;
@@ -23,7 +23,7 @@
 }
 
 .rightSide {
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   color: #deebf8;
   margin-right: 5%;
 }
